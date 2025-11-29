@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
+## Date: 29.11.2025c
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -178,11 +178,17 @@ mandabam.html
 
 
 ## OUTPUT
+![alt text](1.png)
 
+![alt text](2.png)
 
+![alt text](3.png)
 
+![alt text](4.png)
 
+![alt text](5.png)
 
+![alt text](6.png)
 
 
 
